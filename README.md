@@ -6,10 +6,10 @@ Hobby Developer
 
 I am a Healthcare Consultant currently based in London. Bit by bit I am teaching myself to code. Please get in touch with me if you want to discuss anything on my page, I'd love to hear from you.
 
-* 🌍  I'm based in London
+* 🌍  I'm currently based in London
 * 🖥️  See my portfolio at [www.tobibrady.com](http://tobibrady.com)
 * ✉️  You can contact me at [tobias.m.brady@gmail.com](mailto:tobias.m.brady@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm currently learning Django
 
 ### Skills
 
